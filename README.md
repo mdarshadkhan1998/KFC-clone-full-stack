@@ -37,6 +37,7 @@ ___
 * React Slick
 * Git
 
+
 ### Features
 ___
 * Authentication
